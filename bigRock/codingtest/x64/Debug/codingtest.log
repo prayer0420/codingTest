@@ -1,2 +1,2 @@
 ﻿  execution.cpp
-  codingtest.vcxproj -> C:\Users\User\Desktop\codingTest\bigRock\x64\Debug\codingtest.exe
+C:\Users\User\Desktop\codingTest\bigRock\codingtest\execution.cpp(1,1): error C1090: PDB API를 호출하지 못했습니다. 오류 코드 '3': C:\Users\User\Desktop\codingTest\bigRock\codingtest\x64\Debug\vc143.pdb

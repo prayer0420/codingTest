@@ -133,6 +133,8 @@
     <ClInclude Include="combination.h" />
     <ClInclude Include="permutation.h" />
     <ClInclude Include="recursive.h" />
+    <ClInclude Include="split.h" />
+    <ClInclude Include="uniqueh.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
