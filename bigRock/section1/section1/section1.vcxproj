@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1-A.cpp" />
     <ClCompile Include="prefixsum.cpp" />
     <ClCompile Include="section1.cpp" />
     <ClCompile Include="complextion.cpp" />

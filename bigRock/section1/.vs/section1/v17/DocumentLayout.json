@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\1-A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\complextion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\complextion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\prefixsum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\section1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\section1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\complextion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\complextion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "string.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\string.cpp",
-              "RelativeDocumentMoniker": "section1\\string.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\string.cpp",
-              "RelativeToolTip": "section1\\string.cpp",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCYAAAAcAAAA",
+              "Title": "1-A.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-A.cpp",
+              "RelativeDocumentMoniker": "section1\\1-A.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-A.cpp",
+              "RelativeToolTip": "section1\\1-A.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T02:00:56.59Z",
+              "WhenOpened": "2024-09-11T03:24:23.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "string.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\string.cpp",
+              "RelativeDocumentMoniker": "section1\\string.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\string.cpp",
+              "RelativeToolTip": "section1\\string.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwDsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T02:00:56.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "prefixsum.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\prefixsum.cpp",
               "RelativeDocumentMoniker": "section1\\prefixsum.cpp",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "section1\\prefixsum.cpp",
               "ViewState": "AQIAABUAAAAAAAAAAAAcwBwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T01:44:27.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T01:44:27.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "complextion.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\complextion.cpp",
               "RelativeDocumentMoniker": "section1\\complextion.cpp",
@@ -72,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "section1.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\section1.cpp",
               "RelativeDocumentMoniker": "section1\\section1.cpp",
@@ -80,8 +95,7 @@
               "RelativeToolTip": "section1\\section1.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-07T12:56:45.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T12:56:45.738Z"
             }
           ]
         }
