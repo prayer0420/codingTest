@@ -1,2 +1,47 @@
-﻿  1-A.cpp
-  section1.vcxproj -> C:\Users\User\Desktop\codingTest\bigRock\section1\x64\Debug\section1.exe
+﻿  1-E.cpp
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(9,9): error C2065: 'n': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(10,22): error C2065: 'n': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(22,4): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(21,15): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(22,1): error C2429: 언어 기능 'if/switch의 init-statements'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(22,9): error C2059: 구문 오류: '<<'
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(23,3): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-E.cpp(8,1): error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
+  1-F.cpp
+  1-G.cpp
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(3,7): error C2065: 'namepsace': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(3,7): error C2187: 구문 오류: 예기치 않은 'namepsace이(가) 있습니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(3,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(3,17): error C2365: 'std': 재정의: 이전 정의는 '네임스페이스'입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(7,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(7,8): error C2146: 구문 오류: ';'이(가) 's' 식별자 앞에 없습니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(11,2): error C2065: 'cin': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(12,2): error C2065: 'cin': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(12,9): error C2065: 'ori_s': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(13,12): error C2065: 'ori_s': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(13,24): error C2059: 구문 오류: ')'
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(14,2): error C2065: 'pre': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(14,8): error C2065: 'ori_s': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(15,2): error C2065: 'suf': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(15,8): error C2065: 'ori_s': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(19,3): error C2065: 'cin': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(19,10): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(21,7): error C2065: 'pre': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(21,20): error C2065: 'suf': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(21,33): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(23,4): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(23,20): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(23,24): error C2059: 구문 오류: ';'
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(25,3): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(27,8): error C2065: 'pre': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(27,15): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(27,27): error C2065: 'pre': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(27,42): error C2065: 'suf': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(27,49): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(27,58): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(27,69): error C2065: 'suf': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(28,5): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(28,21): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(30,5): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\codingTest\bigRock\section1\section1\1-G.cpp(30,21): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  코드를 생성하고 있습니다...

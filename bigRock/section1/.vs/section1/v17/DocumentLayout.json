@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-G.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\1-G.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\1-F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\1-E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{303A495B-E2D1-448A-A90E-3D186903F343}|section1\\section1.vcxproj|solutionrelative:section1\\1-C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -47,14 +59,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1-C.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-C.cpp",
-              "RelativeDocumentMoniker": "section1\\1-C.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-C.cpp",
-              "RelativeToolTip": "section1\\1-C.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAADAAAA",
+              "Title": "1-G.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-G.cpp",
+              "RelativeDocumentMoniker": "section1\\1-G.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-G.cpp",
+              "RelativeToolTip": "section1\\1-G.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T01:33:37.969Z",
+              "WhenOpened": "2024-09-14T14:20:29.492Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -63,7 +76,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "1-F.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-F.cpp",
+              "RelativeDocumentMoniker": "section1\\1-F.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-F.cpp",
+              "RelativeToolTip": "section1\\1-F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T14:20:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1-E.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-E.cpp",
+              "RelativeDocumentMoniker": "section1\\1-E.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-E.cpp",
+              "RelativeToolTip": "section1\\1-E.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T14:19:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1-C.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-C.cpp",
+              "RelativeDocumentMoniker": "section1\\1-C.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-C.cpp",
+              "RelativeToolTip": "section1\\1-C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T01:33:37.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "1-D.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-D.cpp",
               "RelativeDocumentMoniker": "section1\\1-D.cpp",
@@ -71,12 +120,11 @@
               "RelativeToolTip": "section1\\1-D.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T10:47:55.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T10:47:55.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "1-B.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-B.cpp",
               "RelativeDocumentMoniker": "section1\\1-B.cpp",
@@ -84,12 +132,11 @@
               "RelativeToolTip": "section1\\1-B.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T01:31:54.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T01:31:54.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "1-A.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\1-A.cpp",
               "RelativeDocumentMoniker": "section1\\1-A.cpp",
@@ -97,12 +144,11 @@
               "RelativeToolTip": "section1\\1-A.cpp",
               "ViewState": "AQIAAF0AAAAAAAAAAAAcwIsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-11T03:24:23.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T03:24:23.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "string.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\string.cpp",
               "RelativeDocumentMoniker": "section1\\string.cpp",
@@ -110,12 +156,11 @@
               "RelativeToolTip": "section1\\string.cpp",
               "ViewState": "AQIAAA0AAAAAAAAAAAAcwDsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T02:00:56.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T02:00:56.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "prefixsum.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\prefixsum.cpp",
               "RelativeDocumentMoniker": "section1\\prefixsum.cpp",
@@ -123,12 +168,11 @@
               "RelativeToolTip": "section1\\prefixsum.cpp",
               "ViewState": "AQIAABUAAAAAAAAAAAAcwBwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T01:44:27.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T01:44:27.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "complextion.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\complextion.cpp",
               "RelativeDocumentMoniker": "section1\\complextion.cpp",
@@ -136,12 +180,11 @@
               "RelativeToolTip": "section1\\complextion.cpp",
               "ViewState": "AQIAACgAAAAAAAAAAAAcwDEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-07T14:17:12.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T14:17:12.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "section1.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\codingTest\\bigRock\\section1\\section1\\section1.cpp",
               "RelativeDocumentMoniker": "section1\\section1.cpp",

@@ -39,5 +39,14 @@
     <ClCompile Include="1-D.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1-E.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-F.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-G.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
