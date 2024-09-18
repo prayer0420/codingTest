@@ -134,6 +134,10 @@
     <ClCompile Include="1-E.cpp" />
     <ClCompile Include="1-F.cpp" />
     <ClCompile Include="1-G.cpp" />
+    <ClCompile Include="1-H.cpp" />
+    <ClCompile Include="1-I.cpp" />
+    <ClCompile Include="1-J.cpp" />
+    <ClCompile Include="1-K.cpp" />
     <ClCompile Include="prefixsum.cpp" />
     <ClCompile Include="section1.cpp" />
     <ClCompile Include="complextion.cpp" />
